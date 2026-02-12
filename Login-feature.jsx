@@ -1,6 +1,6 @@
 export default function Login(){
 
      return(
-        <div> hello this is my first time using this  </div>
+        <div> this is the main footer which contained some basic navbar features </div>
      )
 }
