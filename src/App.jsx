@@ -2,7 +2,7 @@
 import TextContent from './Content'
 function App() {
    
-  return (
+  return ( 
     <TextContent/>
   );
 }
